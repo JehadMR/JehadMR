@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JehadMR
-- 👀 I’m interested in ... So many things it's awesome
-- 🌱 I’m currently learning ... So many things it's awesome
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... JM.MERISAT@GMAIL.COM
+- 👀 I’m interested in Cloud technologies, DevOps culture, developing tools & apps, microservices.
+- 🌱 I’m currently learning GO, JAVA, automation tools.
+- 💞️ I’m looking to collaborate on DevOps projects, Backend projects, Open source.
+- 📫 How to reach me? - JM.MERISAT@GMAIL.COM -
 
 ```
 apiVersion: JehadMR.github.io/v1
