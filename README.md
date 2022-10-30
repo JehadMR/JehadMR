@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JehadMR
 - 👀 I’m interested in Cloud technologies, DevOps culture, developing tools & apps, microservices.
 - 🌱 I’m currently learning GO, JAVA, automation tools.
-- 💞️ I’m looking to collaborate on DevOps projects, Backend projects, Open source.
+- 💞️ I’m looking to collaborate on DevOps projects, Full-stack projects, Open source.
 - 📫 How to reach me? - JM.MERISAT@GMAIL.COM -
 
 ```
